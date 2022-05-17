@@ -1,3 +1,6 @@
+# 17.05.22
+# @Mathis Gorvien
+
 import sys
 import random as rd
 import multiprocessing as mp
